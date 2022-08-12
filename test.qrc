@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>UIDesign/UIBackground/route_map_2.png</file>
+  </qresource>
+</RCC>
